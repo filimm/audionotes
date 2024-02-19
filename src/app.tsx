@@ -64,7 +64,7 @@ function onNoteDeleted(id: string){
 
   return (
     <div className="mx-auto max-w-6xl my-12 space-y-6 px-5">
-      <img src={logo} alt="Logo" />
+      
 
       <form>
       <input 
